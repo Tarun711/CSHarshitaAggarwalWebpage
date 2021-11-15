@@ -1,0 +1,248 @@
+body{
+  margin:0;
+
+}
+
+.top-container{
+ position: relative;
+ display: block;
+ height: 680px;
+ background-color: #F3F0D7;
+}
+
+.Name{
+  font-weight: normal;
+  position: absolute;
+  display: inline-block;
+  color: #66BFBF;
+  left:600px;
+  top: 100px;
+  text-align: center;
+  font-family: 'Noto serif', serif;
+}
+
+.Designation{
+  position: absolute;
+  display: inline-block;
+  color: #66BFBF;
+  left:600px;
+  top: 150px;
+  line-height: 2;
+  text-align: center;
+  font-weight: normal;
+  font-family: 'Noto Serif', serif;
+}
+
+span{
+  text-decoration-line: underline;
+}
+
+.Cloud1{
+  position: absolute;
+  left:400px;
+  top:190px;
+  display: inline-block;
+}
+
+.Cloud2{
+  position: absolute;
+  left:1000px;
+  top:90px;
+  display: inline-block;
+}
+
+.Mountain{
+  position:absolute;
+  display: inline-block;
+  top: 320px;
+  left: 450px;
+  margin:auto;
+}
+
+.middle-container{
+ position: relative;
+}
+
+.profile{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.Intro{
+   color:  #40514E;
+   width : 30%;
+   margin: auto;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:4%;
+}
+
+.DP{
+  position: relative;
+  margin: 50px auto 0 auto;
+  width: 10%;
+  border-radius: 50%;
+  left: 670px;
+
+}
+
+.skills{
+  position: relative;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.skill-one{
+  position: relative;
+  width:50%;
+  height: 540px;
+  margin: 50px auto 50px auto;
+}
+
+.skill-two{
+  position: relative;
+  width:50%;
+  height: 750px;
+  margin: 0 auto 0 auto;
+}
+
+.Chilly{
+  width:15%;
+  float: right;
+  margin-left: 20px;
+}
+
+.Computer{
+  width:15%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+}
+
+h2{
+  position: relative;
+  text-align: center;
+  font-weight: normal;
+  color: #11999E;
+}
+
+h3{
+  position: relative;
+  text-align: start;
+  color: #11999E;
+}
+
+p{
+  position: relative;
+  text-align: center;
+  line-height: 2em;
+}
+
+.Achivements{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.Ach-list{
+  width:50%;
+  position: relative;
+  margin:50px auto;
+  text-align: start;
+}
+
+.para{
+  position: relative;
+  text-align: start;
+}
+
+.contact-me{
+  position: relative;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.Contact {
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 20px;
+   padding: 11px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Contact:hover {
+   border: solid #337FED 0;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.Contact:hover {
+   border: solid #337FED 0;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+ position: relative;
+ text-align: center;
+ padding-top: 50px;
+ padding-bottom: 20px;
+}
+
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.credit{
+  color: #EAF6F6;
+  font-size:0.75em;
+}
+
+.btn{
+  color: #11999E;
+}
+
+.footer-link{
+  color:#11999E;
+}
